@@ -1,4 +1,12 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junho2023&show_icons=true&theme=radical)
+
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
+![header](https://capsule-render.vercel.app/api?text=JunhoKim)
+
+
+
 
 <!--
 **junho2023/junho2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
